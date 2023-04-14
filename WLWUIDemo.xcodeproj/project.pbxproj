@@ -135,7 +135,6 @@
 		304B5A2D29D7FC9F00CDDE20 /* WrapperTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WrapperTableViewCell.m; sourceTree = "<group>"; };
 		304B5A2F29D7FEC200CDDE20 /* UIView+Wrapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Wrapper.h"; sourceTree = "<group>"; };
 		304B5A3029D7FEC200CDDE20 /* UIView+Wrapper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Wrapper.m"; sourceTree = "<group>"; };
-		304B5A3A29D80F3000CDDE20 /* WLWScrollUnite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WLWScrollUnite.h; path = ../../../../../Documents/IPhone/HTYZK/HTYZK_IPhone_Security_V5.7.3.3/TzyjMainProj/TzyjMainProj/HsMainPages/WLWScrollUnite.h; sourceTree = "<group>"; };
 		304B5A3B29D80F3000CDDE20 /* WLWScrollUnite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLWScrollUnite.m; sourceTree = "<group>"; };
 		304B5A3D29D80F8500CDDE20 /* WLWDynamicItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLWDynamicItem.h; sourceTree = "<group>"; };
 		304B5A3E29D80F8500CDDE20 /* WLWDynamicItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLWDynamicItem.m; sourceTree = "<group>"; };
@@ -164,6 +163,7 @@
 		304B5AF529D9829300CDDE20 /* ListScrollerUniteVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ListScrollerUniteVC.m; sourceTree = "<group>"; };
 		304B5AF729D9891B00CDDE20 /* DemoListVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoListVC.h; sourceTree = "<group>"; };
 		304B5AF829D9891B00CDDE20 /* DemoListVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoListVC.m; sourceTree = "<group>"; };
+		3054C55529E8F94200BF2F78 /* WLWScrollUnite.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WLWScrollUnite.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -389,7 +389,7 @@
 				3043C25C29E00CE700AC002D /* ListScrollUnite */,
 				304B5A3D29D80F8500CDDE20 /* WLWDynamicItem.h */,
 				304B5A3E29D80F8500CDDE20 /* WLWDynamicItem.m */,
-				304B5A3A29D80F3000CDDE20 /* WLWScrollUnite.h */,
+				3054C55529E8F94200BF2F78 /* WLWScrollUnite.h */,
 				304B5A3B29D80F3000CDDE20 /* WLWScrollUnite.m */,
 			);
 			path = ScrollUnite;
